@@ -29,3 +29,6 @@ The project was initiated on 1st June 2023, marking the beginning of my internsh
 As the sole developer for the Master Events website, my role encompassed the end-to-end front-end development process. This involved gathering requirements, designing the website's user interface, writing clean and maintainable code using HTML, CSS, and JavaScript, and integrating necessary libraries and frameworks to achieve the desired functionalities. Throughout the project, I collaborated closely with Ms. Pavithra ma'am and Mr. Niranjan sir, who provided valuable guidance, feedback, and suggestions to ensure the website's success.
 
 By providing a comprehensive overview of the technology used, the tools employed, and your role in the project, this improved project description highlights your technical skills and the effort invested in delivering a high-quality website for Master Events.
+
+
+NOTE:Gallery won't work as photos are private.
